@@ -1,0 +1,10 @@
+[Configurations]
+host = localhost
+port = 5000
+secret_key = xnet0127727509
+mysql_user = root
+mysql_password = 
+mysql_host = localhost
+mysql_port = 3306
+mysql_db_name = rfid
+

@@ -1,0 +1,1 @@
+pip install sqlalchemy sqlalchemy_utils flask_login flask_sqlalchemy colorama flask-mysqldb
